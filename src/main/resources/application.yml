@@ -1,7 +1,5 @@
 server:
   port: 8000
-  servlet:
-    contextPath: /api
 
 spring:
   application:
@@ -24,7 +22,7 @@ spring:
       on-profile: local
 jwt:
   header: Authorization
-  secret: rutyweorituwyerotiuweyrtoiuweyrtoweiurtywoeighdfsojkghsdfgsdofiguwyertouw | base64
+  secret: rutyweorituwyerotiuweyrtoiuweyrtoweiurtywoeighdfsojkghsdfgsdofiguwyertouw
   access-token-validity-in-seconds: 3600 # 10 min
 
 # ?? ?? ?? ??? ??? ?? ????? ?? ????
