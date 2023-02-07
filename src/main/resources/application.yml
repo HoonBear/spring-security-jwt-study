@@ -22,7 +22,7 @@ spring:
       on-profile: local
 jwt:
   header: Authorization
-  secret: rutyweorituwyerotiuweyrtoiuweyrtoweiurtywoeighdfsojkghsdfgsdofiguwyertouw
+  secret: rutyweorituwyerotiuweyrtoiuweyrtoweiurtywoeighdfsojkghsdfgsdofiguwyertouwrutyweorituwyerotiuweyrtoiuweyrtoweiurtywoeighdfsojkghsdfgsdofiguwyertouw
   access-token-validity-in-seconds: 3600 # 10 min
 
 # ?? ?? ?? ??? ??? ?? ????? ?? ????
